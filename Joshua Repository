@@ -1,0 +1,13 @@
+#include<stdio.h>
+Int main()
+{
+ Int a,b,t;
+Printf("Enter a number");
+Scanf("%d",&a);
+Printf("Enter a number");
+Scanf("%d",&b);
+a+b=t;
+Printf("the total is %d" ,t);
+Return 0;
+
+}
